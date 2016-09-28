@@ -1,1 +1,1 @@
-# lurn-elixir
+# learn-elixir
